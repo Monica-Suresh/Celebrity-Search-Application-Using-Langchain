@@ -27,5 +27,10 @@
            -     streamlit run main.py
       - **Celebrity search Langchain Model :** 
            -     streamlit run celebrity-search.py
-    
+      -       
+4. Output Screenshot:
+      - General Search(Main.py) 
+            - ![Output_screen](https://github.com/Monica-Suresh/Celebrity-Search-Application-Using-Langchain/blob/main/Output_Screen.png)
+      - Celebrity Search (celebrity-search.py)
+            - ![Output_screen](https://github.com/Monica-Suresh/Celebrity-Search-Application-Using-Langchain/blob/main/celebrity-search.png)
            
